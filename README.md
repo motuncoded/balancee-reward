@@ -1,7 +1,8 @@
 # Balanceé Rewards
 
 ## Overview  
-The Balanceé Rewards program provides users with cashback and promotional opportunities.  
+This is a dashboard of an app or website that deals with customer rewards. The dashboard shows the user's current reward balance, their total cashback, and the earnings history. The user can choose to cashout their rewards directly or convert them to promo codes. They can also view their earnings history for the last 7 days, 30 days, 90 days, or all time.
+
 
 ![Balancee Rewards Screenshot](balancee-reward.png)  
 
